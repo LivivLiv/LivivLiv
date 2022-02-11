@@ -7,7 +7,7 @@
 <body>
 
 <h1>Taniec</h1>
-<p>Paragraf</p>
+<p>Moją pasją od małego jest taniec. Już jako dziecko chodziłam na różne zajęcia taneczne.</p>
 
 </body>
 </html> 

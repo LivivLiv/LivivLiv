@@ -19,4 +19,4 @@
 </html>
 
 <h3>Jazz<h3>
- <p> Od września 2021r. uczęszczam na zajęcia w Egurroli. Wybrałam styl Jazz, ponieważ ma on dużo wspólnego z baletem i do tego naprawdę jest pięknym stylem. Moja grupa taneczna to świetni ludzie. Trener także jest super człowiekiem od którego wiele się nauczyłam w ciągu tych 6 miesięcy. Jeśli na treningach żartujemy to i tak nie zapominamy o tańcu i jeśli jest czas na żarty to żartujemy jeśli czas na taniec to tańczymy i skupiamy się. Wiem, że to jest już na pewno to czego szukałam przez tyle lat. <p>
+ <p> Od września 2021r. uczęszczam na zajęcia w Egurroli. Wybrałam styl Jazz, ponieważ ma on dużo wspólnego z baletem i do tego naprawdę jest pięknym stylem. Moja grupa taneczna to świetni ludzie. Trener także jest super człowiekiem od którego wiele się nauczyłam w ciągu tych 6 miesięcy. Jeśli na treningach żartujemy to i tak nie zapominamy o tańcu i jeśli jest czas na żarty to żartujemy jeśli czas na taniec to tańczymy i skupiamy się. Wiem, że to jest już na pewno to czego szukałam przez tyle lat. </p>

@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="nazwa_pliku.css"/>
 </head>
 <body>
-
+<div class="backgorund pink">
 <h1>Od czego to się zaczeło?</h1>
 <p>Moje zafascynowanie tańcem zaczeło się kiedy byłam jeszcze małym dzieckiem. Zawsze uwielbiałam oglądać bajki z tanecznym wątkiem. Jako pierwszymi zajęciami z tańca był balet. Pamiętam, że moja trenerka zawsze mówiła do mojej mamy, że mam duży talent do tego. Na zajęcia chodziłam dopóki nie dostałam swoich pierwszych baletek, stwierdziłam, że one za bardzo mnie obcierają i juz nie będę tańczyć. Każdy mi próbował wytłumaczyć, że na początku to będzie boleć ale ja i tak brnęłam w swoje. Po balecie przez długi czas miałam przerwę z tańcem dopóki w mojej szkole nie pojawiły się zajęcia z tańca towarzyskiego. Chodziłam na nie przez okolo 2 lata ale wiedziałam, że to poprostu nie było to coś.</p>
 
